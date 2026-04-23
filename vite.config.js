@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react'
 // set base to '/<repo-name>/'. If deploying to a custom domain or user site
 // (<username>.github.io), leave base as '/'.
 // Change this to match your repo name:
-const REPO_NAME = 'a-century-apart'
+const REPO_NAME = 'A-Century-Apart'
 
 export default defineConfig({
   plugins: [react()],
